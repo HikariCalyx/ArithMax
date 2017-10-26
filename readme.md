@@ -17,7 +17,7 @@ ArithMax EV3P:
 * RAM:192KB
 * ROM:1MB
 * Screen:COG FSTN 96*31 with status
-* Keypad:PEP-290 keypad
+* Keypad:PEP-290 (Also known as TY-290ES) keypad
 * IO:JTAG SW-DP,TF Card,USB
 
 # Software
