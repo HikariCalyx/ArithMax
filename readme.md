@@ -1,8 +1,6 @@
 # Project status
 
-This project is currently suspended.
-This project is currently suspended.
-This project is currently suspended.
+This project is revived as ArithMax IV. IV not only means 4, but also stands for Intermediate Version.
 
 # ArithMax Overview
 
@@ -11,7 +9,7 @@ ArithMax is an DIY calculator project which was launched by ZephRay(nbzwt) in cn
 
 # Hardware
 
-The hardware of ArithMax has been changed several times, now we have one branch: ArithMax E(entry)
+The hardware of ArithMax has been changed several times, in this fork we have this branch: ArithMax I(ntermediate)
 
 ArithMax EV3P:
 
@@ -34,7 +32,7 @@ ArithMax E: <= $40
 
 # Contact me
 
-Webstie: 
-http://www.zephray.com
+Website: 
+https://www.hikaricalyx.com
 
-Email:nbzwt@126.com or nbzwt@live.cn
+Email:hikaricalyx at hikaricalyx dot com
